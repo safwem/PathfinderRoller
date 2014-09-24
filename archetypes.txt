@@ -1,0 +1,259 @@
+Archer
+Armor Master
+Brawler
+Buckler Duelist
+Cad
+Corsair
+Crossbowman
+Dervish of Dawn
+Dragoon
+Free Hand Fighter
+Gladiator
+Lore Warden
+Mobile Fighter
+Phalanx Soldier
+Polearm Master
+Roughrider
+Savage Warrior
+Shielded Fighter
+Swordlord
+Tactician
+Thunderstriker
+Tower Shield Specialist
+Two-Handed Fighter
+Two-Weapon Warrior
+Unarmed Fighter
+Unbreakable Fighter
+Viking
+Weapon Bearer Squire
+Weapon Master
+Armored Hulk
+Breaker
+Brutal Pugilist
+Drunken Brute
+Elemental Kin
+Hurler
+Invulnerable Rager
+Mad Dog
+Mounted Fury
+Savage Barbarian
+Scarred Rager
+Sea Reaver
+Superstitious
+Titan Mauler
+Totem Warrior
+True Primitive
+Urban Barbarian
+Wild Rager
+Acrobat
+Bandit
+Burglar
+Carnivalist
+Chameleon
+Charlatan
+Cutpurse
+Driver
+Investigator
+Knife Master
+Pirate
+Poisoner
+Rake
+Roof Runner
+Sanctified Rogue
+Sapper
+Scout
+Scroll Scoundrel
+Smuggler
+Sniper
+Spy
+Survivalist
+Swashbuckler
+Thug
+Trapsmith	
+Animal Speaker
+Arcane Duelist
+Archaeologist
+Archivist
+Buccaneer
+Celebrity
+Court Bard
+Daredevil
+Demagogue
+Dervish Dancer
+Dervish of Dawn
+Detective
+Dirge Bard
+Diva
+Geisha
+Lotus Geisha
+Magician 
+Drunken Master
+Flowing Monk
+Hungry Ghost Monk
+Ki Mystic
+Maneuver Master
+Martial Artist
+Master of Many Styles
+Monk of the Empty Hand
+Monk of the Four Winds
+Monk of the Healing Hand
+Monk of the Lotus
+Monk of the Sacred Mountain 
+Crossblooded
+False Priest
+Seeker
+Tattooed Sorcerer 
+Wildblooded Sorcerer
+Cloistered Cleric
+Crusader
+Devilbane Priest
+Devout Pilgrim
+Divine Strategist
+Evangelist
+Hidden Priest
+Merciful Healer
+Scroll Scholar
+Separatist
+Theologian
+Undead Lord
+Variant Channeling
+Combat Healer Squire
+Divine Defender
+Divine Hunter
+Empyreal Knight
+Holy Gun
+Holy Tactician
+Hospitaler 
+Oathbound Paladin
+Sacred Servant
+Sacred Shield
+Shining Knight
+Sword of Valor
+Undead Scourge
+Warrior of the Holy Light 
+Arcane Bomber
+Primalist
+Scroll Scholar
+Scrollmaster
+Shadowcaster
+Siege Mage
+Spellslinger 
+Battle Scout
+Beastmaster
+Deep Walker
+Dungeon Rover
+Falconer
+Freebooter
+Groom
+Guide
+Hippogriff Rider
+Horse Lord
+Infiltrator
+Shapeshifter
+Skirmisher
+Spirit Ranger
+Trapper 
+Trophy Hunter
+Urban Ranger
+Warden
+Wild Stalker
+Witchguard
+Woodland Skirmisher
+Yokai Hunter 
+Ape Shaman
+Aquatic Druid
+Arctic Druid
+Bat Shaman
+Bear Shaman
+Blight Druid
+Boar Shaman
+Cave Druid
+Desert Druid
+Dragon Shaman
+Eagle Shaman
+Jungle Druid
+Lion Shaman
+Menhir Savant
+Mooncaller
+Mountain Druid
+Pack Lord
+Plains Druid
+Reincarnated Druid
+Saurian Shaman
+Serpent Shaman
+Shark Shaman
+Storm Druid
+Swamp Druid
+Tempest Druid
+Urban Druid
+Wolf Shaman
+World Walker 
+Beast Rider
+Emissary
+Gendarme
+Herald Squire
+Honor Guard
+Huntmaster
+Luring Cavalier
+Musketeer
+Standard Bearer
+Strategist
+Beastmorph
+Blazing Torchbearer
+Chirurgeon
+Clone Master
+Crypt Breaker
+Grenadier
+Internal Alchemist
+Mindchemist
+Preservationist
+Psychonaut
+Ragechemist
+Reanimator
+Trap Breaker
+Visionary Researcher
+Vivisectionist
+Gun Tank
+Gunner Squire
+Musket Master
+Mysterious Stranger
+Pistolero
+Exorcist
+Heretic
+Iconoclast
+Infiltrator
+Preacher
+Sin Eater
+Spellbreaker
+Vampire Hunter
+Witch Hunter 
+Bladebound Magus
+Bladed Scarf Dancer
+Hexcrafter
+Kensai
+Myrmidarch
+Skirnir
+Soul Forger
+Spellblade
+Spire Defender
+Staff Magus
+Black-Blooded Oracle
+Dual-Cursed Oracle
+Enlightened Philosopher
+Planar Oracle
+Possessed Oracle
+Seeker
+Seer
+Stargazer
+Broodmaster
+Evolutionist
+First Worlder
+Master Summoner
+Synthesist
+Beast-bonded Witch
+Dimensional Occultist
+Gravewalker
+Hedge Witch
+Sea Witch
+White-Haired Witch
+Winter Witch
