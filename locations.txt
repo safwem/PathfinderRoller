@@ -1,0 +1,72 @@
+Advanced Ancient Acropolis - Exactly what it says on the tin. Often found in the darkest jungle. May overlap with City of Gold.
+Adventure Towns - Travel between towns for new quests.
+The Bermuda Triangle - Where planes and ships go to enter inter-dimensional rifts (maybe).
+Boom Town - Whoa, these guys build and breed fast.
+Climbing the Cliffs of Insanity - Tall walls of rock keeping you from your destination.
+Company Town - A town created by a company for its employees, where they're the law for all practical purposes.
+Corpse Land - A devastated location where no one has cleaned up the bodies of the fallen (and maybe never will).
+Cult Colony - An isolated group of religious settlers.
+Cut-and-Paste Suburb - Hey, I think I saw that house before. And that one too!
+City of Canals -A city where waterways are used as streets. Usually mirrors Venice.
+Desert Island - No one lives there. Good place to be marooned. Full of Jungle Japes.
+Domed Hometown - City in a dome. Underwater optional.
+Dying Town - Having lost its reason to exist, the town is largely shuttered and abandoned, home to only those who couldn't move elsewhere.
+Elaborate Underground Base - A base that has a hangar, silo and laboratory.
+Eldritch Location - Because Euclidean designs are for morons!
+Evil Tower of Ominousness -That tower that's larger than the mountains? Definitely not the Evil Overlord's lair!
+"Far Side" Island - A tiny island in the middle of nowhere housing a single palm tree.
+Floating Continent - A floating chunk of land as an exotic locale.
+Forbidden Zone - A dangerous place no one wants to go (except the heroes, of course).
+Garden of Evil - A place where most or all of the plants are poisonous, carnivorous, or otherwise dangerous.
+Ghibli Hills -Pristine, untouched wilderness, often within easy reach of civilization.
+Grass Is Greener -An idealized place that a person desperately wishes to leave and go to.
+Halloweentown -A setting with a very stylized creepy, gothic, Halloween theme.
+Hidden Elf Village -A secret, safe place far from the eyes of those other meddling nations.
+Home of Monsters - Any place monsters call home, whether it be a lair, a whole dimension, a Monster Town or Island of Mystery.
+Hungry Jungle -Jungles are out to kill you.
+Ice Palace -A castle made of ice or one that's completely frozen over.
+Industrial Ghetto -A slum near or inside an industrial area, often made of scrap and filled with crime and pollution.
+Inside a Computer System -Inside a self-contained virtual/magical world (unlike Cyberspace, in which locations correspond to the real world).
+In the Doldrums -A featureless location, often an empty plane or void. More than just somewhere boring.
+Island Base -A Supervillain Lair on an isolated island.
+Island of Mystery -An island with any one of a number of unusual things on it.
+Layered Metropolis - A city with multiple, vertically-separated levels, usually with the rich on top.
+Landmarking the Hidden Base -A secret base hidden under or in some famous landmark.
+The Neutral Zone -Territory in between nations in a Cold War that is off-limits to keep a war from restarting. Opposite of Truce Zone.
+Mega City -A city with the size or population of a country.
+Merchant City -A trade city, ruled or mostly populated by merchants, bankers, and traders.
+Micro Monarchy -A modern, very tiny nation ruled by a royal family. Usually an eclectic mix of tradition and modernity.
+Monster Town -A town entirely populated by monsters. May have a twisted, alien culture or one Not So Different from ours.
+Monumental Battle -Dramatic battles always seem to take place around major landmarks.
+One-Product Kingdom -For simplicity's sake, a planet in SF is only ever famous for a single good or service.
+Outlaw Town -A town run for the benefit of criminals or one entirely populated by criminals.
+The Outside World -Any place outside a place of confinement, isolation, or seclusion.
+Pleasure Island - An entire island is dedicated to being a perfect leisure spot. May or may not be a trap.
+Port Town -A city by the sea.
+Privately Owned Society -Everything is owned by individuals, nothing is run by the government (at least not effectively). Expect Straw.
+The Promised Land -The place that promises to be better than where we are. Where the Grass Is Greener.
+Quirky Town -A small town filled with quirky and adorable characters.
+Railroad to Horizon -A railroad disappearing into the distance is used as a metaphor for the journey ahead.
+Ridiculously Difficult Route -When a route is usually never used because it's just too difficult and/or there are other, easier ways.
+River of Insanity -People who go on a journey down a river into the unknown will not make it back unchanged.
+The Shangri-La -A paradise high up in the mountains.
+Shining City -The greatest and most beautiful city in the world. The home of righteousness, justice, and civilization.
+Swamps Are Evil -Swamps are out to kill you.
+Thirsty Desert -Deserts are out to kill you.
+Traveling Landmass -Makes it kind of hard to find on maps. May serve as a Base on Wheels.
+Treasure Room -Here there be dragons! Expect difficulty leaving with it.
+Tree Top Town -When adults make an entire town out of Treehouses of Fun. Don't expect safety railings.
+Trophy Room -Where a character keeps mementos of their greatest adventures.
+Truce Zone -Neutral ground between two hostile nations where their peoples are encouraged to mingle to help warm relations and build a future peace. Opposite of The Neutral Zone.
+Turtle Island -A turtle, whale, or other creature big enough and old enough to support a mobile ecosystem on its back.
+Uncanny Atmosphere -Some vague sense of wrongness in an area sets the heroes on edge.
+Uncanny Village -A seemingly idyllic small town isn't quite what it appears on the surface. The townsfolk may or may not be in on it.
+Undefeatable Little Village -A small, close-knit community manages somehow to repeatedly repel an enemy power far more massive than it.
+Undercity -A city that suffered some calamity has been built-over and forgotten — but it's still there.
+Underground City -A city Beneath the Earth which may have been buried, built by non-humans, and/or as a bunker to survive the apocalypse.
+Underwater Base -An underwater Supervillain Lair.
+Vice City -A crime-ridden urban setting that has not quite yet declined into Wretched Hive status. The default setting used in most Wide Open Sandbox games, particularly Grand Theft Auto and its imitators.
+Volcano Lair -A Supervillain Lair in a (usually inactive) volcano. Saves time digging. Beware victory.
+Wild Wilderness -The untouched wilderness is a place of adventure and is treated as almost another world.
+Wretched Hive -A lawless land, populated almost entirely with cutthroats and other scum.
+Fisher Kingdom
